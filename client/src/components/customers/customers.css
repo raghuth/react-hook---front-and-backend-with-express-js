@@ -1,0 +1,31 @@
+.card-grid {
+  background: #f2f2f2;
+  border: 1px solid #e6e6e6;
+  display: flex;
+  height: 1rem;
+  text-align: start;
+}
+.MuiCardHeader-content .MuiTypography-body1 {
+  font-size: 11px;
+  font-weight: bold;
+}
+.MuiCardHeader-content .MuiTypography-h5 {
+  font-size: 18px;
+  padding-top: 18px;
+}
+.MuiTypography-colorTextSecondary {
+  padding-bottom: 15px;
+}
+.MuiCard-root .MuiCardHeader-root {
+  display: flex;
+  padding: 24px;
+  align-items: center;
+}
+.input-grid {
+  display: flex;
+}
+
+.input-grid .MuiButton-contained {
+  color: rgb(255, 255, 255);
+  background-color: rgb(25, 118, 210);
+}
